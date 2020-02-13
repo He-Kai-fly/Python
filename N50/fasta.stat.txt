@@ -1,0 +1,21 @@
+Total scaffolds	34
+Total base (bp)	4241939
+Total N (bp)	8
+Average length (bp)	124762
+Longest scaffold (bp)	1245350
+Shortest scaffold (bp)	205
+L50	2
+N50	1059709
+L75	3
+N75	985486
+L90	6
+N90	207064
+GC (%)	43.35
+Total scaffolds (>= 1000000 bp)	2
+Total scaffolds (>= 100000 bp)	6
+Total scaffolds (>= 10000 bp)	10
+Total scaffolds (>= 1000 bp)	15
+Total length (>= 1000000 bp)	2305059
+Total length (>= 100000 bp)	3997314
+Total length (>= 10000 bp)	4220017
+Total length (>= 1000 bp)	4236731
